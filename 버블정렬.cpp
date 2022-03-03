@@ -1,4 +1,4 @@
-#include <Stdio.h>
+#include <stdio.h>
 int main ()
 {
 	// 3,2,5,4,1,7, 8, 9, 10, 6
